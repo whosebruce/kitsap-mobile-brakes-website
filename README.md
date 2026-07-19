@@ -4,9 +4,9 @@ Static marketing website for Kitsap Mobile Brakes & Oil, prepared for GitHub Pag
 
 ## Pages
 
-- Home: `index.html`
-- Services and pricing: `services.html`
-- Contact: `contact.html`
+- Home: `/`
+- Services and pricing: `/services/`
+- Contact: `/contact/`
 
 ## Local preview
 
